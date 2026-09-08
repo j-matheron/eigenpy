@@ -77,7 +77,6 @@ In your pull request:
 - Use a descriptive title and follow the pull request template.
 - If the pull request is not ready for review, keep it as a draft.
 - Keep it to a single self-contained change. Don't mix unrelated fixes.
-- Follow the [code convention](./convention.md).
 - Keep backward compatibility. Don't break the API.
 - Write tests that cover your changes.
 - Add an entry to the [changelog](../CHANGELOG.md).
