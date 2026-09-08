@@ -134,7 +134,7 @@ category (`Added`, `Changed`, `Fixed`, `Removed`).
 Each entry is a short message followed by the pull request link, e.g.:
 
 ```
-- Add support for std::array([#411](https://github.com/stack-of-tasks/eigenpy/pull/411))
+- Add support for std::array ([#411](https://github.com/stack-of-tasks/eigenpy/pull/411))
 ```
 
 CI and infra-only changes should not be listed. Use the **no changelog** label in this case.
